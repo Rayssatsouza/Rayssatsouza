@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, welcome to my GitHub page 👋
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rayssatsouza&show_icons=true)
+ 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayssatsouza&theme=blue-green)
+ 
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Rayssatsouza)
 
 <!--
 **Rayssatsouza/Rayssatsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
